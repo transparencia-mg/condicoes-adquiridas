@@ -1,0 +1,30 @@
+name: condicoes-adquiridas
+owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
+profile: data-package
+resources:
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: condicao-adquirida
+    path: data/condicao-adquirida.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: unidade
+          type: string
+        - name: ano
+          type: integer
+        - name: mes
+          type: integer
+        - name: cond_adquirida
+          type: integer
+        - name: altas_validas
+          type: string
+        - name: tx_cond_adquirida
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+title: Condicoes adquiridas
