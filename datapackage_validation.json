@@ -35,7 +35,7 @@
             {
               "name": "cond_adquirida",
               "type": "integer",
-              "description": "Condição Adquirida (Dano, lesão ou complicação não intencional que ocorre com o paciente durante a assistência médica e que não é atribuído à evolução natural da doença de base)."
+              "description": "Total de pacientes que apresentaram ao menos uma condição adquirida (Dano, lesão ou complicação não intencional que ocorre com o paciente durante a assistência médica e que não é atribuído à evolução natural da doença de base)."
             },
             {
               "name": "altas_validas",
