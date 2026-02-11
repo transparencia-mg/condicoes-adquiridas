@@ -33,4 +33,4 @@ resources:
           description: "Taxa de Condições Adquiridas (proporção de pacientes que desenvolveram uma ou mais condições adquiridas durante a internação hospitalar em relação ao total de pacientes internados)."
     scheme: file
     title: Taxa de Condições Adquiridas
-title: Pacientes com condições adquiridas
+title: Pacientes com Condições Adquiridas
